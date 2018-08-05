@@ -1,5 +1,7 @@
 # cherry.rb scraping toy
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/cherryrb_scraping_toy.svg)](https://www.guardrails.io)
+
 ## Installation
 1. git clone
 
